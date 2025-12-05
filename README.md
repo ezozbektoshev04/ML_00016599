@@ -24,7 +24,7 @@ away win) using historical match statistics.
 
    ```bash
    python -m venv venv
-   venv\Scripts\activate  # on Windows
+   venv\Scripts\activate (source venv/Scripts/activate , . venv/Scripts/activate)  # on Windows
    # source venv/bin/activate  # on macOS/Linux
    ```
 
