@@ -28,6 +28,15 @@ away win) using historical match statistics.
    # source venv/bin/activate  # on macOS/Linux
    ```
 
+   2. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   3. run jupyter file notebook.ipynb
+   4. streamlit run app/Home.py
+
 ## Technologies and Libraries
 
 The project was developed using Python and a set of widely used data science libraries:
